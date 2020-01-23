@@ -30,6 +30,7 @@ public class GitReview {
   
         System.out.println("Simple test.");
         System.out.println("Modified in GitHub.");
+        System.out.println("Modified in GitHub again.");
             
     }
 

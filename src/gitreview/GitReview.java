@@ -8,6 +8,11 @@
         
 */
 
+// add moves from working tree to index stage
+// commit moves from index stage to local rep (or working tree to local rep)
+// push: right click on project>git>remote>push>chose repository link
+
+
 package gitreview;
 
 /**
